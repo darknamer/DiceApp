@@ -42,6 +42,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+
+//    Check code
     private fun randomDice(): Int {
         return (1..6).random()
     }
